@@ -55,7 +55,7 @@ limited success in producing high-resolution textures, indicating that SR-CACO-2
 represents a challenging problem. The dataset is released under a Creative
 Commons license (CC BY-NC-SA 4.0), and it can be accessed freely. Our dataset,
 code and pretrained weights for SISR methods are publicly available
-: https://github.com/sbelharbi/sr-caco-2.
+: https://github.com/LIVIAETS/sr-caco-2.
 
 **Code: Pytorch 2.0.0**
 
